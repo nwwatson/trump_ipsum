@@ -59,7 +59,28 @@ class Lorem
     "They’re rapists. And some, I assume, are good people.",
     "I have the best words.",
     "Well, somebody’s doing the raping, Don. I mean somebody’s doing it. Who’s doing the raping? Who’s doing the raping?",
-    "My favorite part of ‘Pulp Fiction’ is when Sam has his gun out in the diner and he tells the guy to tell his girlfriend to shut up. Tell that bitch to be cool. Say: ‘Bitch be cool.’ I love those lines."
+    "My favorite part of ‘Pulp Fiction’ is when Sam has his gun out in the diner and he tells the guy to tell his girlfriend to shut up. Tell that bitch to be cool. Say: ‘Bitch be cool.’ I love those lines.",
+    "Ariana Huffington is unattractive, both inside and out. I fully understand why her former husband left her for a man – he made a good decision.",
+    "You know, it really doesn’t matter what the media writes as long as you’ve got a young, and beautiful, piece of ass.",
+    "If I were running ‘The View’, I’d fire Rosie O’Donnell. I mean, I’d look at her right in that fat, ugly face of hers, I’d say ‘Rosie, you’re fired'.",
+    "The beauty of me is that I’m very rich.",
+    "I have never seen a thin person drinking Diet Coke.",
+    "The point is, you can never be too greedy.",
+    "My IQ is one of the highest — and you all know it! Please don't feel so stupid or insecure. It's not your fault.",
+    "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated like dogs. How are they gonna beat ISIS? I don’t think it’s gonna happen.",
+    "He referred to my hands, if they're small, something else must be small. I guarantee you there's no problem. I guarantee it.",
+    "Be careful, Lyin' Ted, or I will spill the beans on your wife!",
+    "Just watched Jeb's ad where he desperately needed mommy to help him. Jeb --- mom can't help you with ISIS, the Chinese or with Putin.",
+    "You are the single biggest liar. You probably are worse than Jeb Bush. This guy lied. He's a nasty guy.",
+    "He doesn't even use his last name in his ads. He's a sad person who has gone absolutely crazy. I mean, this guy is a nervous wreck. I've never seen anything like it.",
+    "If Obama resigns from office NOW, thereby doing a great service to the country—I will give him free lifetime golf at any one of my courses!",
+    "Everyone knows I am right that Robert Pattinson should dump Kristen Stewart. In a couple of years, he will thank me. Be smart, Robert.",
+    "Why is Obama playing basketball today? That is why our country is in trouble!",
+    "While Bette Midler is an extremely unattractive woman, I refuse to say that because I always insist on being politically correct.",
+    "How stupid are the people of Iowa?",
+    "I'm not sure I have ever asked God's forgiveness. I don't bring God into that picture .When I go to church and when I drink my little wine and have my little cracker, I guess that is a form of forgiveness. I do that as often as I can because I feel cleansed.",
+    "You know, when Ben Carson says he went after his mother and wanted to hit her in the head with a hammer. That bothers me. I mean, that's pretty bad. I'm not saying anything other than pathological is a very serious disease. And he said he's pathological, somebody said he has pathological disease. It's in the book that he's got a pathological temper. That's a big problem because you don't cure that. You don't cure these people. You don't cure a child molester. There's no cure for it. Pathological, there's no cure for that.",
+    "We’re losing a lot of people because of the Internet. We have to see Bill Gates and a lot of different people who really understand what’s happening and maybe, in some ways, closing that Internet up in some ways."
   ]
 
   TYPES = [:paragraphs, :words, :chars, :characters]
