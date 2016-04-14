@@ -1,0 +1,1 @@
+class MustBePositive < StandardError; end

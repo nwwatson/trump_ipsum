@@ -1,0 +1,1 @@
+class UnsupportedType < StandardError; end
