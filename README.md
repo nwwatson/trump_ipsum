@@ -1,24 +1,10 @@
-## README
+# Trump Ipsum
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+So this was thrown together really quick. Its a text generator for Trump
+quotes.
 
-Things you may want to cover:
+## Add quote
 
-* Ruby version
+Fork, add a quote to the PRAGRAPHS contsant in app/models/lorem.rb and submit a pull request.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Or you can submit it via Issues and I'll added it. Maybe.
