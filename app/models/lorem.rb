@@ -57,6 +57,7 @@ class Lorem
     "I dealt with Gaddafi. I rented him a piece of land. He paid me more for one night than the land was worth for two years, and then I didn't let him use the land. That's what we should be doing. I don't want to use the word ‘screwed,' but I screwed him. That's what we should be doing.",
     "The only kind of people I want counting my money are little short guys that wear yamakas every day.",
     "They’re rapists. And some, I assume, are good people.",
+    "I have the best words.",
     "Well, somebody’s doing the raping, Don. I mean somebody’s doing it. Who’s doing the raping? Who’s doing the raping?",
     "My favorite part of ‘Pulp Fiction’ is when Sam has his gun out in the diner and he tells the guy to tell his girlfriend to shut up. Tell that bitch to be cool. Say: ‘Bitch be cool.’ I love those lines."
   ]
