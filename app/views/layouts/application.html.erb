@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>TrumpIpsum</title>
+    <title>Ipsum Trump - Making Lorem Ipsum Great Agan</title>
     <%= csrf_meta_tags %>
     <%= action_cable_meta_tag %>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <meta name=description content="Making Lorem Ipsum Great Again! Trump quotes put in to paragraphs for enjoyable reading (and dummy text)."> <meta name=keywords content="Lorem, Ipsum, Trump, Make, America, Great, Again">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track' => 'reload' %>
@@ -14,13 +18,16 @@
       <div class="site-wrapper-inner">
         <div class="cover-container">
           <div class="inner cover">
-            <h1 class="cover-heading">Trump-Ipsum</h1>
+            <h1 class="cover-heading">Ipsum Trump</h1>
+            <p>
+              <strong>Making Lorem Ipsum Great Again!</strong><br> Trump quotes put in to paragraphs for enjoyable reading....
+            </p>
+            <p class="lead">
+              <%= link_to "Let me see another one!", root_url, class: "btn btn-lg btn-default" %>
+            </p>
             <div id="trump-quote">
               <%= yield %>
             </div>
-            <p class="lead">
-              <a href="#" class="btn btn-lg btn-default">New Text</a>
-            </p>
           </div>
         </div>
       </div>
