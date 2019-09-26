@@ -5,6 +5,6 @@ quotes.
 
 ## Add quote
 
-Fork, add a quote to the PRAGRAPHS contsant in app/models/lorem.rb and submit a pull request.
+Fork, add a quote to the PARAGRAPHS contsant in app/models/lorem.rb and submit a pull request.
 
 Or you can submit it via Issues and I'll added it. Maybe.
